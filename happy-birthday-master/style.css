@@ -127,3 +127,30 @@ img {
     position: absolute;
     padding-top: 250px;
 }
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    .type-wrap {
+        font-size: 20px;
+    }
+
+    .cake {
+        padding-top: 150px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        font-size: 12px;
+    }
+
+    .type-wrap {
+        font-size: 16px;
+    }
+
+    .cake {
+        padding-top: 100px;
+    }
+}
