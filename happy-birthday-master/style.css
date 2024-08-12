@@ -140,17 +140,3 @@ img {
         padding-top: 150px;
     }
 }
-
-@media screen and (max-width: 480px) {
-    body {
-        font-size: 12px;
-    }
-
-    .type-wrap {
-        font-size: 16px;
-    }
-
-    .cake {
-        padding-top: 100px;
-    }
-}
